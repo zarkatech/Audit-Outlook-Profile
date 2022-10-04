@@ -1,7 +1,7 @@
 ﻿$ScriptInfo = @"
 ================================================================================
 Audit-OutlookProfile.ps1 | v1.0
-by Roman Zarka | Microsoft Services
+by Roman Zarka | github.com/zarkatech
 ================================================================================
 SAMPLE SCRIPT IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.
 "@; cls; Write-Host "$ScriptInfo`n" -ForegroundColor White
